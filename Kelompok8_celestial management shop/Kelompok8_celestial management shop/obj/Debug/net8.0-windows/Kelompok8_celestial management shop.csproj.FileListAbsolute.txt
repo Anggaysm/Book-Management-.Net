@@ -1,0 +1,43 @@
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial management shop.csproj.AssemblyReference.cache
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_Book.Login.resources
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_Book.Splash.resources
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial management shop.csproj.GenerateResource.cache
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial management shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial management shop.AssemblyInfoInputs.cache
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial management shop.AssemblyInfo.cs
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial management shop.csproj.CoreCompileInputs.cache
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\Kelompok8_celestial management shop.exe
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\Kelompok8_celestial management shop.deps.json
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\Kelompok8_celestial management shop.runtimeconfig.json
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\Kelompok8_celestial management shop.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\Kelompok8_celestial management shop.pdb
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial management shop.csproj.CopyComplete
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial management shop.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\refint\Kelompok8_celestial management shop.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial management shop.pdb
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial management shop.genruntimeconfig.cache
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\ref\Kelompok8_celestial management shop.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial_management_shop.Properties.Resources.resources
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial_management_shop.user_bookshop.resources
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\Xamarin.Forms.Core.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\Xamarin.Forms.Platform.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\bin\Debug\net8.0-windows\Xamarin.Forms.Xaml.dll
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial_management_shop.Books.resources
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial_management_shop.users.resources
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial_management_shop.Register.resources
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial_management_shop.DashBoard.resources
+C:\Angga\pnj\semester 3\POB\ngoding\Kelompok8_celestial management shop\Kelompok8_celestial management shop\obj\Debug\net8.0-windows\Kelompok8_celestial_management_shop.AdminLog.resources
